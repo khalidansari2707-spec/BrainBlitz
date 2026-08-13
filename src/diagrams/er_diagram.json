@@ -1,0 +1,11 @@
+{
+  "id": "er_diagram_1",
+  "subject": "DBMS",
+  "mode": "spot_the_fault",
+  "image": "er_diagram.svg",
+  "labels": [
+    { "id": "l1", "text": "Primary Key", "zone": "zone1", "isCorrect": true },
+    { "id": "l2", "text": "Foreign Key", "zone": "zone2", "isCorrect": false },
+    { "id": "l3", "text": "Attribute", "zone": "zone3", "isCorrect": true }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": "gantt_chart_1",
+  "subject": "OS",
+  "mode": "interpret",
+  "image": "gantt.svg",
+  "question": "What happens next in this schedule?",
+  "options": [
+    { "id": "o1", "text": "Process execution continues", "isCorrect": true },
+    { "id": "o2", "text": "Process is preempted", "isCorrect": false },
+    { "id": "o3", "text": "Process is blocked", "isCorrect": false },
+    { "id": "o4", "text": "Scheduler runs", "isCorrect": false }
+  ]
+}

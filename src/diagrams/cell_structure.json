@@ -1,0 +1,14 @@
+{
+  "id": "cell_structure_1",
+  "subject": "Bio",
+  "mode": "label_rush",
+  "image": "cell.svg",
+  "timeLimit": 60,
+  "labels": [
+    { "id": "l1", "text": "Nucleus", "correctZone": "zone1" },
+    { "id": "l2", "text": "Mitochondria", "correctZone": "zone2" },
+    { "id": "l3", "text": "Cell Membrane", "correctZone": "zone3" },
+    { "id": "l4", "text": "Cytoplasm", "correctZone": "zone4" },
+    { "id": "l5", "text": "Chloroplast", "correctZone": "zone5" }
+  ]
+}

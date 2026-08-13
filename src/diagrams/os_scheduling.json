@@ -1,0 +1,11 @@
+{
+  "id": "os_scheduling_1",
+  "subject": "OS",
+  "mode": "sequence_snap",
+  "steps": [
+    { "id": "s1", "text": "Process enters ready queue", "order": 1 },
+    { "id": "s2", "text": "Scheduler selects process", "order": 2 },
+    { "id": "s3", "text": "Process runs on CPU", "order": 3 },
+    { "id": "s4", "text": "Process completes or is preempted", "order": 4 }
+  ]
+}

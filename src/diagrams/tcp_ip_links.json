@@ -1,0 +1,20 @@
+{
+  "id": "tcp_ip_links_1",
+  "subject": "CN",
+  "mode": "match_links",
+  "leftItems": [
+    { "id": "l1", "text": "TCP", "category": "transport" },
+    { "id": "l2", "text": "UDP", "category": "transport" },
+    { "id": "l3", "text": "IP", "category": "network" }
+  ],
+  "rightItems": [
+    { "id": "r1", "text": "Connection-oriented", "category": "transport" },
+    { "id": "r2", "text": "Connectionless", "category": "transport" },
+    { "id": "r3", "text": "Addressing", "category": "network" }
+  ],
+  "correctMatches": [
+    { "leftId": "l1", "rightId": "r1" },
+    { "id": "l2", "rightId": "r2" },
+    { "id": "l3", "rightId": "r3" }
+  ]
+}

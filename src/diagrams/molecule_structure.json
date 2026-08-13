@@ -1,0 +1,13 @@
+{
+  "id": "molecule_structure_1",
+  "subject": "Chem",
+  "mode": "label_rush",
+  "image": "molecule.svg",
+  "timeLimit": 60,
+  "labels": [
+    { "id": "l1", "text": "Hydrogen", "correctZone": "zone1" },
+    { "id": "l2", "text": "Oxygen", "correctZone": "zone2" },
+    { "id": "l3", "text": "Carbon", "correctZone": "zone3" },
+    { "id": "l4", "text": "Nitrogen", "correctZone": "zone4" }
+  ]
+}

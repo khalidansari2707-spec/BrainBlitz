@@ -7,6 +7,7 @@ BrainBlitz is an interactive and engaging educational quiz game designed for stu
 - **Science & Mathematics:** Physics, Chemistry, and Mathematics quizzes.
 - **Gamified Elements:** Timed quizzes, score tracking, dynamic streaks, and interactive sound effects.
 - **Modern UI/UX:** Sleek, responsive design built with React, Vite, and Tailwind CSS.
+- **Presentation Deck:** Included PowerPoint presentation (`BrainBlitz_Presentation.pptx`).
 
 ## 🛠️ Tech Stack
 - **Frontend:** React 19, Vite, Tailwind CSS, Lucide Icons, Canvas Confetti, Howler.js
